@@ -1,0 +1,15 @@
+C:\Users\ciamp\OneDrive\Documents\C_sharp\Jour2\Job1\bin\Debug\net10.0\Job1.exe
+C:\Users\ciamp\OneDrive\Documents\C_sharp\Jour2\Job1\bin\Debug\net10.0\Job1.deps.json
+C:\Users\ciamp\OneDrive\Documents\C_sharp\Jour2\Job1\bin\Debug\net10.0\Job1.runtimeconfig.json
+C:\Users\ciamp\OneDrive\Documents\C_sharp\Jour2\Job1\bin\Debug\net10.0\Job1.dll
+C:\Users\ciamp\OneDrive\Documents\C_sharp\Jour2\Job1\bin\Debug\net10.0\Job1.pdb
+C:\Users\ciamp\OneDrive\Documents\C_sharp\Jour2\Job1\obj\Debug\net10.0\Job1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciamp\OneDrive\Documents\C_sharp\Jour2\Job1\obj\Debug\net10.0\Job1.AssemblyInfoInputs.cache
+C:\Users\ciamp\OneDrive\Documents\C_sharp\Jour2\Job1\obj\Debug\net10.0\Job1.AssemblyInfo.cs
+C:\Users\ciamp\OneDrive\Documents\C_sharp\Jour2\Job1\obj\Debug\net10.0\Job1.csproj.CoreCompileInputs.cache
+C:\Users\ciamp\OneDrive\Documents\C_sharp\Jour2\Job1\obj\Debug\net10.0\Job1.sourcelink.json
+C:\Users\ciamp\OneDrive\Documents\C_sharp\Jour2\Job1\obj\Debug\net10.0\Job1.dll
+C:\Users\ciamp\OneDrive\Documents\C_sharp\Jour2\Job1\obj\Debug\net10.0\refint\Job1.dll
+C:\Users\ciamp\OneDrive\Documents\C_sharp\Jour2\Job1\obj\Debug\net10.0\Job1.pdb
+C:\Users\ciamp\OneDrive\Documents\C_sharp\Jour2\Job1\obj\Debug\net10.0\Job1.genruntimeconfig.cache
+C:\Users\ciamp\OneDrive\Documents\C_sharp\Jour2\Job1\obj\Debug\net10.0\ref\Job1.dll
